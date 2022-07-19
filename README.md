@@ -28,7 +28,7 @@
   <source src="./files/smsSpamDetector.mp4" type="video/mp4">
 Video: 
 </video>
-<a href="">Colablink</a>
+<a href="https://smsemailspamdetector.herokuapp.com/">Livelink</a>
 <a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset">Dataset</a>
 </body>
 
